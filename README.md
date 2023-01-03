@@ -2,6 +2,10 @@
 
 Download: https://cdn.discordapp.com/attachments/1057364288316133410/1059919698080309290/KRNL_Black_Blood.rar
 
+# Chenges?
+
+Added settings tab where you can change window size.
+
 # What is a KRNL theme?
 
 Its a personalized executor window using KRNL secure API.
