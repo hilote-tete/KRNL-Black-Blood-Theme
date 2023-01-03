@@ -1,4 +1,4 @@
-# KRNL-JugJug-Theme
+# KRNL-Black-Blood-Theme
 
 # What is a KRNL theme?
 
